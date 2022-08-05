@@ -1,0 +1,9 @@
+oops 
+1)abstraction -showing only necessary data for user hiding the rest
+2)encapsulation-wrapping up data members and functions is called encapsulation
+3)data hiding-used to active data security
+4)class-class is result of encapsulation and data hiding.
+5)object-object is instance of clas .we create objects inside programm to define class 
+//concept of object oriented
+6)polymophism-used to increase efficiency of programme 
+7)inheritance-property of parent class is derived to child class

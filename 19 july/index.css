@@ -1,0 +1,34 @@
+body{
+    background: linear linear-gradient(
+        to bottom,
+        rgb(204, 229, 255),
+        rgba(204, 229, 255, 0.4)
+    );
+}
+    
+    #hello {
+        background-color: green;
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png");
+    }
+    
+
+
+.nature {
+    color: rgb(203, 23, 23);
+    text-align: center;
+    background-image: url("https://www.adobe.com/express/feature/image/media_16ad2258cac6171d66942b13b8cd4839f0b6be6f3.png?width=750&format=png&optimize=medium");
+}
+#hi {
+    background-color: aqua;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LX6-Z-9Mn4qhyqwfkCOq2XReQfeUGq4MYg&usqp=CAU");
+}
+
+#how  {
+    background-color: blueviolet;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHzzuYV6tQFjMV1NpVVOEO3_EVdOjJ5F7w&usqp=CAU");
+}
+
+
+
+
+
